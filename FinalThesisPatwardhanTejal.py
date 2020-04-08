@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Thesis Final
 # April 8, 2020
 
 # ## Setup
